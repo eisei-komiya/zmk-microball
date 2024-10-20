@@ -78,7 +78,7 @@
 &kp LCTRL                              &lt 2 SPACE  &kp LEFT_COMMAND    &kp BACKSPACE      &lt 3 ENTER  &lt_to_layer_0 1 RIGHT_COMMAND  &kp LEFT_WIN  &kp RIGHT_SHIFT  &kp LEFT_ALT
             >;
 
-            sensor-bindings = <&inc_dec_kp DOWN_ARROW UP_ARROW>;
+            sensor-bindings = <&inc_dec_kp K_SCROLL_DOWN K_SCROLL_UP>;
         };
 
         layer_1 {
